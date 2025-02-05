@@ -21,8 +21,7 @@ To run this game on your local machine, follow these steps:
 
 ### 1️⃣ Clone the Repository
 sh
-git clone https://github.com/your-username/color-tap-challenge.git
-cd color-tap-challenge
+git clone
 2️⃣ Install Dependencies
 sh
 flutter pub get
